@@ -23,6 +23,7 @@ to show usage.
 
 # usage
 
+```
 Usage: <main class> [command] [command options]
   Commands:
     tables      List Available Tables
@@ -53,4 +54,4 @@ Usage: <main class> [command] [command options]
     version      Show Version
       Usage: version
 
-
+```
