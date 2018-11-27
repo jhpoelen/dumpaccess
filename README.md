@@ -17,9 +17,7 @@ To build a standalone jar, run ```mvn package```.
 
 to show usage. 
 
-```java -jar target/dumpaccess-0.1-SNAPSHOT.jar-with-dependencies.jar dump-long [some access db file]```
-
-
+```java -jar target/dumpaccess-0.1-SNAPSHOT.jar-with-dependencies.jar dump-long -d some.accdb | head -n10 > some.tsv```
 
 # usage
 
